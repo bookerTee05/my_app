@@ -1,0 +1,17 @@
+{
+  "folders": {
+    "root": {
+      "id": "root",
+      "name": "/",
+      "parentId": ""
+    },
+    "ef3c3c89-d956-40f6-8318-5c9dfca31946": {
+      "name": "Assesment",
+      "id": "ef3c3c89-d956-40f6-8318-5c9dfca31946",
+      "parentId": "root"
+    }
+  },
+  "pages": {
+    "home": "root"
+  }
+}
